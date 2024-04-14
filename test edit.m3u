@@ -1,0 +1,103 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdK93HTJ/images-5-10.jpg"group-title="ISLAMIC",1.Peace Tv
+http://tv.cloudcdn.online/live/00:1A:79:01:EC:E1/D9CA0D47A1879/237.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8k0HPXR/Star-Jalsha-logo-2023.png"group-title="Kolkata",2.Star Jalsha FHD
+http://tv.cloudcdn.me/live.ts?channelId=116592&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NY0FfvV/Jalsha-Movies-HD-alt.png"group-title="Kolkata",3.Jalsha Movies FHD
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtS4n2yM/Zee-Bangla-logo.png"group-title="Kolkata",4.Zee Bangla FHD
+http://tv.cloudcdn.me/live.ts?channelId=120&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vvf6n124/image.png"group-title="Bangla",5. Jamuna TV FHD
+http://176.119.29.52/live.ts?channelId=100&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YMRd8s1/2560px-svg.png"group-title="Bangla",6. Somoy TV
+http://176.119.29.52/live.ts?channelId=115&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBXfY46y/Asian-TV-logo.png"group-title="Bangla",7.Asian TV
+http://176.119.29.52/live.ts?channelId=80&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLyJXWmN/1200px-ATN-Bangla-svg.png"group-title="Bangla",8.ATN Bangla FHD
+http://176.119.29.52/live.ts?channelId=81&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FVm7bFW/atn-news-1482-w360.webp"group-title="Bangla",9.ATN News FHD
+http://176.119.29.52/live.ts?channelId=83&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHFS32pV/Bangla-TV-Logo.png"group-title="Bangla",10.Bangla Tv FHD
+http://176.119.29.52/live.ts?channelId=44159&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3zV24gc/1200px-Banglavision-svg.png"group-title="Bangla",11.Banglavision FHD
+http://176.119.29.52/live.ts?channelId=84&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBt3vy41/image.jpg"group-title="Bangla",12.BIJOY TV FHD
+http://176.119.29.52/live.ts?channelId=85&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ymGCm1Z/image.png"group-title="Bangla",14.Biswa Bangla 24 TV FHD
+http://176.119.29.52/live.ts?channelId=90253&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8j6Rdsx/1160px-Boishakhi-TV-logo-svg.png"group-title="Bangla",15.Boishakhi TV FHD
+http://176.119.29.52/live.ts?channelId=86&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65bKb9JF/channel-24-logo-B70391-F779-seeklogo-com.png"group-title="Bangla",16.Channel 24 FHD
+http://176.119.29.52/live.ts?channelId=87&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVdNp0RD/channel-9.jpg"group-title="Bangla",17.Channel9 FHD
+http://176.119.29.52/live.ts?channelId=88&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fy6KktS6/Channeli-BD.png"group-title="Bangla",18. Channel i FHD
+http://tv.cloudcdn.me/live.ts?channelId=89&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvyGRSfR/Colors-Bangla.png"group-title="Kolkata",19. Colors Bangla FHD
+http://tv.cloudcdn.me/live.ts?channelId=92&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT03WwvG/image.png"group-title="Bangla",20. DBC News FHD
+http://176.119.29.52/live.ts?channelId=29197&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z59WV7gF/image.jpg"group-title="Bangla",21. DD Bangla FHD
+http://tv.cloudcdn.me/live.ts?channelId=36290&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kjsjp37H/Desh-tv-logo.jpg"group-title="Bangla",22. DESH Tv FHD
+http://tv.cloudcdn.me/live.ts?channelId=93&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5txJvNLY/Discovery-Channel-Logo-Design-History-Evolution-0-1024x1024.jpg"group-title="Bangla",23. Discovery Channel HD
+http://tv.cloudcdn.me/live.ts?channelId=44153&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVF3HFGv/default-f5a63c8327b98eafee564f28c3a9ebdb.png"group-title="Bangla",24. Ekattor TV FHD
+http://tv.cloudcdn.me/live.ts?channelId=95&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QHYzMJ9/image.png"group-title="Bangla",25. Ekushey TV
+http://176.119.29.52/live.ts?channelId=96&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zG0kgXM2/Gaan-Bangla-Logo-2021.jpg"group-title="Bangla",26. Gann Bangla TV
+http://tv.cloudcdn.me/live.ts?channelId=97&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T37rPNLZ/1200px-Independent-Television-Logo-svg.png"group-title="Bangla",27. Independent TV FHD
+http://176.119.29.52/live.ts?channelId=99&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKWzLzPh/Ananda-TV-Logo.png"group-title="Bangla",28.Ananda TV
+http://176.119.29.52/live.ts?channelId=90255&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGBS412B/Massranga-logo.jpg"group-title="Bangla",29. Maasranga FHD
+http://tv.cloudcdn.me/live.ts?channelId=101&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9SBjngJ/HC827r7.png"group-title="Bangla",30. Mohona TV FHD
+http://176.119.29.52/live.ts?channelId=103&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZYBKcnBX/po-YBAFaexr-CAN3nl-AAA6-YKkw70s496.jpg"group-title="Bangla",31. Movies Bangla FHD
+http://176.119.29.52/live.ts?channelId=104&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpX5XFpk/Mytv-Bangladesh-Logo.png"group-title="Bangla",32. My TV FHD
+http://176.119.29.52/live.ts?channelId=106&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw9NKnzy/1024px-National-Geographic-Logo-svg.png"group-title="Bangla",33. National Geographic FHD
+http://tv.cloudcdn.me/live.ts?channelId=90229&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tk05Xtg/image.jpg"group-title="Bangla",34. News 24 FHD
+http://176.119.29.52/live.ts?channelId=107&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8ksd7gX/HC820mb.png"group-title="Bangla",35. N TV FHD
+http://tv.cloudcdn.me/live.ts?channelId=109&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bYC5vkQW/r-tv-logo-40-D288-E794-seeklogo-com.png"group-title="Bangla",36. R TV FHD
+http://176.119.29.52/live.ts?channelId=112&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvxWqj39/image.jpg"group-title="Bangla",37. Ruposhi Bangla FHD
+http://tv.cloudcdn.me/live.ts?channelId=113&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0KKdmxn/Sangeet-Bangla-logo-2021.png"group-title="Bangla",38. Sangeet Bangla FHD
+http://tv.cloudcdn.me/live.ts?channelId=38893&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkdnYVmS/g-Vd-Ydk-400x400.jpg"group-title="Bangla",39. Aakash Aath FHD
+http://tv.cloudcdn.me/live.ts?channelId=79&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wj1hJDmt/1200px-Sony-Aath-logo-svg.png"group-title="Kolkata",40. Sony Aath
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMjTQLvn/Star-Jalsha-logo-2023.png"group-title="Kolkata",41. Star Jalsha HD
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2y1N5w3j/Time-Television-logo-500x500.png"group-title="Bangla",41. Time Television FHD
+http://176.119.29.52/live.ts?channelId=118&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1vp5BhM/image.png"group-title="Kolkata",42. Zee Bangla Cinema FHD
+http://tv.cloudcdn.me/live.ts?channelId=119&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo=""group-title="Bangla",
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
