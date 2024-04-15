@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdK93HTJ/images-5-10.jpg"group-title="ISLAMIC",1.Peace Tv
 http://tv.cloudcdn.online/live/00:1A:79:01:EC:E1/D9CA0D47A1879/237.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8k0HPXR/Star-Jalsha-logo-2023.png"group-title="Kolkata",2.Star Jalsha FHD
@@ -83,21 +83,115 @@ http://tv.cloudcdn.me/live.ts?channelId=116&uid=9312&deviceMac=00:1A:79:01:EC:E1
 http://176.119.29.52/live.ts?channelId=118&uid=9312&deviceMac=00:1A:79:01:EC:E1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1vp5BhM/image.png"group-title="Kolkata",42. Zee Bangla Cinema FHD
 http://tv.cloudcdn.me/live.ts?channelId=119&uid=9312&deviceMac=00:1A:79:01:EC:E1
-#EXTINF:-1 tvg-logo=""group-title="Bangla",
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBsHVkCZ/image.png"group-title="Hindi",43. & Pictures FHD
+http://tv.cloudcdn.me/live.ts?channelId=139&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgvKbWnp/image.jpg"group-title="Hindi",44. & TV FHD
+http://tv.cloudcdn.me/live.ts?channelId=140&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCCvhcPw/98204-xplore.jpg"group-title="Hindi",45. & Xplor FHD
+http://tv.cloudcdn.me/live.ts?channelId=80371&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDJmSYGX/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png"group-title="Hindi",46. 9X Jalwa FHD
+http://tv.cloudcdn.me/live.ts?channelId=142&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t487p7p0/png-transparent-9xm-music-television-television-channel-betel-miscellaneous-television-blue.png"group-title="Hindi",47. 9XM FHD
+http://tv.cloudcdn.me/live.ts?channelId=143&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LYDvkTv/1067px-2018-Animal-Planet-logo-svg.png"group-title="Hindi",48. Animal Planet FHD
+http://tv.cloudcdn.me/live.ts?channelId=151&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJD78Ny5/B4-U-Kadak.jpg"group-title="Hindi",49.B4U Kadak FHD
+http://tv.cloudcdn.me/live.ts?channelId=35383&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLG38J8R/b4u-movies-logo.png"group-title="Hindi",50. B4U Movies FHD
+http://tv.cloudcdn.me/live.ts?channelId=152&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1MvXSSZ/B4-U-Music-logo.png"group-title="Hindi",51. B4U Music
+http://tv.cloudcdn.me/live.ts?channelId=153&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NjRcYS3/512X512.png"group-title="Hindi",52. BBO Classic FHD
+http://tv.cloudcdn.me/live.ts?channelId=86150&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RHDr0cv/bollywood-classic.jpg"group-title="Hindi",53. Bollywood Classic FHD
+http://tv.cloudcdn.me/live.ts?channelId=123916&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rsFtjkp/image.png"group-title="Hindi",54. Bollywood FHD
+http://tv.cloudcdn.me/live.ts?channelId=123915&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VL2pBb8H/Colors-Cineplex-Bollywood.jpg"group-title="Hindi",55. Colors Cineplex Bollywood FHD
+http://tv.cloudcdn.me/live.ts?channelId=62412&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnLL57BG/image.png"group-title="Hindi",56. Colors Cineplex FHD
+http://tv.cloudcdn.me/live.ts?channelId=470&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/909XRsjx/Colors-cineplex.png"group-title="Hindi",57. Colors Cineplex
+http://tv.cloudcdn.me/live.ts?channelId=156&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMWdSQbh/image.png"group-title="Hindi",58. Colors Rishtey FHD
+http://tv.cloudcdn.me/live.ts?channelId=158&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90m1rHT2/Colors-tv2017.png"group-title="Hindi",59. Colors HD
+http://tv.cloudcdn.me/live.ts?channelId=160&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q9qnsqY/Casi-Discovery-HD.png"group-title="Hindi",60. Discovery FHD
+http://tv.cloudcdn.me/live.ts?channelId=164&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5YVhnYh/1280px-HBO-logo-svg.png"group-title="Hindi",61. HBO FHD
+http://tv.cloudcdn.me/live.ts?channelId=49858&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SN853krT/india-news-channel.jpg"group-title="Hindi",62. India News
+http://tv.cloudcdn.me/live.ts?channelId=33324&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqWH9Q47/MTV-Beats-Logo.png"group-title="Hindi",63. MTV Beats FHD
+http://tv.cloudcdn.me/live.ts?channelId=173&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FG811ms/mastiii-logo-mew.png"group-title="Hindi",64. Mastii TV FHD
+http://tv.cloudcdn.me/live.ts?channelId=172&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2GGr75C/107-1070590-movies-now-movies-now-logo-png.png"group-title="Hindi",65. Movies Now FHD
+http://tv.cloudcdn.me/live.ts?channelId=162&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLFgrPLj/52-522851-national-geographic-logo-png-transparent-background-national-geographic.jpg"group-title="Hindi",66. National Geographic HD
+http://tv.cloudcdn.me/live.ts?channelId=178&uid=9312&deviceMac=00:1A:79:01:EC:E1
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
 
-#EXTINF:-1 tvg-logo=""group-title="",
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
 
-#EXTINF:-1 tvg-logo=""group-title="",
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
 
-#EXTINF:-1 tvg-logo=""group-title="",
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
 
-#EXTINF:-1 tvg-logo=""group-title="",
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
 
-#EXTINF:-1 tvg-logo=""group-title="",
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
 
-#EXTINF:-1 tvg-logo=""group-title="",
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
 
-#EXTINF:-1 tvg-logo=""group-title="",
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
 
-#EXTINF:-1 tvg-logo=""group-title="",
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
+
+#EXTINF:-1 tvg-logo=""group-title="Hindi",
 
